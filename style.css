@@ -13,3 +13,7 @@ body{background-color:rgb(35, 168, 35);
    text-align: center;
    
 }
+.container{
+    display: flex;
+    text-align: center;
+}
